@@ -18,7 +18,7 @@ I tweet about Software Engineering, CloudComputing and Linux.
 - 🔭 I’m currently working as **Software Engineer @ AWS, S3**
 - 👯 I’m always looking to collaborate on open source projects which spark my interest.
 - I also post blogs about concepts I learn at https://dev.to/dhirensr
-- 💬 Ask me about **Backend Development**
+- 💬 Ask me about **Backend Development** , **Cloud Computing**, **Linux**
 - 📫 How to reach me:
   **[Twitter](https://twitter.com/DhirenSerai), [LinkedIN](https://www.linkedin.com/in/dhiren-serai-16409b114/)**
 
