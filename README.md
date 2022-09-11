@@ -20,7 +20,7 @@ I tweet about Software Engineering, CloudComputing and Linux.
 - I also post blogs about concepts I learn at https://dev.to/dhirensr
 - 💬 Ask me about **Backend Development**
 - 📫 How to reach me:
-  **[Twitter](https://twitter.com/DhirenSerai), [LinkedIN]([https://instagram.com/codewithghazi](https://www.linkedin.com/in/dhiren-serai-16409b114/)**
+  **[Twitter](https://twitter.com/DhirenSerai), [LinkedIN](https://www.linkedin.com/in/dhiren-serai-16409b114/)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhirensr&layout=compact&theme=dark&hide_border=true)
 
